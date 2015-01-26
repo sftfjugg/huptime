@@ -63,7 +63,7 @@ unmodified applications.
 How do I install it?
 --------------------
 
-Building this package gnerally requires:
+Building this package generally requires:
 * make
 * gcc and g++
 * python
